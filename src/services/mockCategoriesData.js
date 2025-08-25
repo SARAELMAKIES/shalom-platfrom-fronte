@@ -1,0 +1,41 @@
+// src/services/mockCategories.js
+export const mockCategoriesData = [
+
+//להוסיף שלאחרי מחיקת קטגוריה  שימחק לגמרי  ולא יופיע אחרי ריענון...
+// אולי שיהיה אפשרות בשרת שלא ימחק כי אולי ירצה לשחזר אלא רק להאפיר...
+
+  { id: 'mikveh', name: 'Mikveh', description: 'xxxxxxxx'},
+  { id: 'synagogue', name: 'Synagogue', description: 'xxxxxxxx' },
+  { id: 'chabad', name: 'Chabad House',  description: 'xxxxxxxx'},
+  { id: 'kosher_restaurant', name: 'Kosher Retaurant', description: 'xxxxxxxx' },
+  { id: 'kosher_shop', name: 'Kosher Shop',  description: 'xxxxxxxx' },
+  { id: 'jewish_museum', name: 'Jewish Museum', description: 'xxxxxxxx'  },
+  { id: 'cemetery', name: 'Jewish Cemetery',  description: 'xxxxxxxx' },
+  { id: 'holiday', name: 'Holiday Events', description: 'xxxxxxxx' },
+  { id: 'community_event', name: 'Community Event', description: 'xxxxxxxx'},
+  { id: 'eruv', name: 'Eruv', heName: 'עירוב', description: 'xxxxxxxx'},
+  { id: 'jewish_tours', name: 'Jewish Tours', description: 'xxxxxxxx' },
+  { id: 'jewish_hotel', name: 'Kosher Hotel', description: 'xxxxxxxx' },
+  { id: 'judaica_shop', name: 'Judaica Shop', description: 'xxxxxxxx' },
+  { id: 'jewish_community_center', name: 'Jewish Community Center', description: 'xxxxxxxx' },
+  { id: 'matzah_bakery', name: 'Matzah Bakery', description: 'xxxxxxxx'},
+  { id: 'succah_supplier', name: 'Sukkot Supplies', description: 'xxxxxxxx' },
+  { id: 'brit_milah', name: 'Brit Milah Services', description: 'xxxxxxxx'},
+  { id: 'wedding_hall_kosher', name: 'Kosher Wedding Hall', description: 'xxxxxxxx' },
+  { id: 'rabbi_services', name: 'Rabbi Services', description: 'xxxxxxxx' },
+  { id: 'kosher_winery', name: 'Kosher Winery', description: 'xxxxxxxx' },
+  { id: 'jewish_counseling', name: 'Jewish Counseling', description: 'xxxxxxxx' },
+  { id: 'gemach', name: 'Gemach (Charity Lending)', description: 'xxxxxxxx' },
+  { id: 'kosher_catering', name: 'Kosher Catering', description: 'xxxxxxxx' },
+  { id: 'shabbat_hospitality', name: 'Shabbat Hospitality', description: 'xxxxxxxx' },
+  { id: 'kosher_supermarket', name: 'Kosher Supermarket', description: 'xxxxxxxx' },
+  { id: 'jewish_education', name: 'Jewish Education', description: 'xxxxxxxx' },
+  { id: 'kosher_bakery', name: 'Kosher Bakery', description: 'xxxxxxxx' },
+  { id: 'kosher_butcher', name: 'Kosher Butcher', description: 'xxxxxxxx' },
+  { id: 'kosher_deli', name: 'Kosher Deli', description: 'xxxxxxxx' },
+  { id: 'kosher_grocery', name: 'Kosher Grocery', description: 'xxxxxxxx' },
+  { id: 'jewish_art_gallery', name: 'Jewish Art Gallery', description: 'xxxxxxxx' },
+  { id: 'jewish_library', name: 'Jewish Library', description: 'xxxxxxxx' },
+  { id: 'jewish_cultural_center', name: 'Jewish Cultural Center', description: 'xxxxxxxx' },  
+  { id: 'jewish_cultural', name: 'Jewish Cultural', description: 'xxxxxxxx' },
+];

@@ -1,0 +1,50 @@
+/* src/index.css */
+/* Import the font if it's from Google Fonts (example, verify if Bahnschrift is there) */
+/* @import url('https://fonts.googleapis.com/css2?family=Your+Font+Name&display=swap'); */
+/*
+If Bahnschrift is a system font on Windows, you might not need an @import.
+If it's not universally available and you have a font file, you would use @font-face:
+@font-face {
+  font-family: 'Bahnschrift Light SemiCondensed';
+  src: url('/fonts/Bahnschrift-Light-SemiCondensed.ttf') format('truetype');
+  font-weight: 300; // Adjust as needed
+  font-style: normal;
+}
+(Remember to place your font file in the 'public/fonts' directory)
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 8px; 
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 4px; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.font-agencyfb {
+  font-family: 'Agency FB', sans-serif;
+}
+
+/* Custom Toastify Styles */
+.custom-toast {
+  background-color: #008080 !important;
+  color: white !important;
+  font-family: inherit !important;
+  border-radius: 0 !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08) !important;
+ 
+}
+

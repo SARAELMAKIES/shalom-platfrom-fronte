@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I sign up for the platform?",
+    "answer": "The registration process for the Shalom platform is simple and quick. Click the \"**Sign Up**\" button located at the top of the page or in the main menu. You can choose to register using your Google account or by providing an email address and password. After successful registration, you will be automatically redirected to your personal profile."
+  },
+  {
+    "question": "How can I add a new place?",
+    "answer": "After successful login, go to the \"**Add Place**\" page, available via the main menu. There you will be asked to fill in several essential details:\n\n* **Place Name:** Full and clear name of the business or point of interest.\n* **Category:** Select the appropriate category (e.g., Kosher restaurant, synagogue, mikvah, educational institution, etc.).\n* **Short Description:** A concise and relevant description of the place.\n* **Exact Location:** Select the location on the map, which will ensure maximum accuracy.\n* **Photos:** Upload high-quality photos of the place (optional but recommended).\n\nAfter filling in all the details and submitting the form, the place will appear on the platform after review and approval by the management team."
+  },
+  {
+    "question": "How do I edit or delete posts and places I've published?",
+    "answer": "For full control over your content, go to your personal profile. There you will find dedicated tabs such as \"**My Locations**\" and \"**My Posts**\". Through these tabs you can:\n\n* **Edit Details:** Update information, descriptions, photos, and more.\n* **Delete Publications:** Remove places or posts that are no longer relevant.\n* **Monitor Engagement:** View comments, likes, and shares your publications have received."
+  },
+  {
+    "question": "What are Shabbat times and how do I use them?",
+    "answer": "The \"**Shabbat Times**\" page provides up-to-date and accurate information on Shabbat and holiday entry and exit times for various locations around the world. The information is retrieved and updated automatically via the Hebcal API. You can choose between different customs (e.g., 18 minutes before sunset, diaspora custom, etc.) to adapt the times to your personal needs."
+  },
+  {
+    "question": "How can I contact the support team?",
+    "answer": "If you have not found an answer to your question on this page, our support team is at your disposal. Please do not hesitate to contact us by one of the following methods:\n\n* **Email:** Send an email to [**support@shalomplatform.com**](mailto:support@shalomplatform.com)\n* **Online Form:** Fill out the form on the \"**[Contact Us](/contact)**\" page and we will get back to you as soon as possible."
+  }
+]
